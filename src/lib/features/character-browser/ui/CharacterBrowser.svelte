@@ -7,12 +7,13 @@
 	export let onQueryChange: (value: string) => void;
 </script>
 
+
 <section class="hero">
-	<div class="eyebrow">SvelteKit · Rick and Morty</div>
-	<h1>Arquitectura frontend lista para crecer sin mezclar UI con negocio.</h1>
-	<p>
-		Base feature-first/domain-first con contratos claros entre pantalla, dominio y API.
-	</p>
+   <div class="eyebrow">Rick and Morty · By Jorge Luis Garzon Parada</div>
+   <h1>Explora el multiverso de personajes</h1>
+   <p>
+	   Proyecto CI/CD personalizado por <strong>Jorge Luis Garzon Parada</strong>. Busca y explora personajes de Rick and Morty usando SvelteKit.
+   </p>
 </section>
 
 <div class="panel">
